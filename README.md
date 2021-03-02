@@ -16,6 +16,6 @@ $ pkg install git -y
 $ git clone https://github.com/fh-rabbi/shellphish
 $ cd shellphish
 $ bash setup.sh
-$ shellphish
+$ sp
 ```
 
